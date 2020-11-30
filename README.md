@@ -1,4 +1,5 @@
-# Advanced-algorithms
+# CSS 503 - Advanced Programming Technologies
+
 Project 1
 Team ID: 17 (Chiron)
 
